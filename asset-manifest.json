@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/c_tiwitter/static/css/main.5deeb007.chunk.css",
+    "main.js": "/c_tiwitter/static/js/main.0d3979f3.chunk.js",
+    "main.js.map": "/c_tiwitter/static/js/main.0d3979f3.chunk.js.map",
+    "runtime-main.js": "/c_tiwitter/static/js/runtime-main.82e53a94.js",
+    "runtime-main.js.map": "/c_tiwitter/static/js/runtime-main.82e53a94.js.map",
+    "static/js/2.47e14160.chunk.js": "/c_tiwitter/static/js/2.47e14160.chunk.js",
+    "static/js/2.47e14160.chunk.js.map": "/c_tiwitter/static/js/2.47e14160.chunk.js.map",
+    "index.html": "/c_tiwitter/index.html",
+    "precache-manifest.6b63e6a412c7d1f42b4baac5e3a6a15b.js": "/c_tiwitter/precache-manifest.6b63e6a412c7d1f42b4baac5e3a6a15b.js",
+    "service-worker.js": "/c_tiwitter/service-worker.js",
+    "static/css/main.5deeb007.chunk.css.map": "/c_tiwitter/static/css/main.5deeb007.chunk.css.map",
+    "static/js/2.47e14160.chunk.js.LICENSE.txt": "/c_tiwitter/static/js/2.47e14160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e53a94.js",
+    "static/js/2.47e14160.chunk.js",
+    "static/css/main.5deeb007.chunk.css",
+    "static/js/main.0d3979f3.chunk.js"
+  ]
+}
